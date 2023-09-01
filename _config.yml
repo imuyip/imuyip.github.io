@@ -1,4 +1,4 @@
-theme: minima
+#theme: minima
 
 title: Piyumi Athulathmudali
 
@@ -8,69 +8,69 @@ email: imuyip@gmail.com
 timezone: Etc/UTC # GitHub uses UTC. This is to force dev environment to match
 future: false # GitHub Pages will publish future posts if this isn't set to false
 
-description: >
-  My blog for data viz + personal projects
+# description: >
+#   My blog for data viz + personal projects
 
-# Minima variables
-github_username:   imuyip
-linkedin_username: piyumia
-#instagram_username: piyumidali
-rss: rss
+# # Minima variables
+# github_username:   imuyip
+# linkedin_username: piyumia
+# #instagram_username: piyumidali
+# rss: rss
 
-show_excerpts: false
+# show_excerpts: false
 
-# Used by simple links page
-social-links:
-  #Resume:        
-  LinkedIn:      https://linkedin.com/in/piyumia
-  GitHub:        https://github.com/imuyip   
-  Website:       https://imuyip@github.io
+# # Used by simple links page
+# social-links:
+#   #Resume:        
+#   LinkedIn:      https://linkedin.com/in/piyumia
+#   GitHub:        https://github.com/imuyip   
+#   Website:       https://imuyip@github.io
 
-# plugin: jekyll-seo-tag
-social:
-  name: Piyumi Athulathmudali
-  links:
-    - https://linkedin.com/in/piyumia
-    - https://github.com/imuyip
+# # plugin: jekyll-seo-tag
+# social:
+#   name: Piyumi Athulathmudali
+#   links:
+#     - https://linkedin.com/in/piyumia
+#     - https://github.com/imuyip
 
-# plugin: jekyll-titles-from-headings
-titles_from_headings:
-  strip_title: true
+# # plugin: jekyll-titles-from-headings
+# titles_from_headings:
+#   strip_title: true
 
-collections:
-  personal: # collection for personal blog posts
-    output: true
+# collections:
+#   personal: # collection for personal blog posts
+#     output: true
 
-header_pages:
-  - archive.html
-  - data-viz.html
-  - bookmarks.md
+# header_pages:
+#   - archive.html
+#   - data-viz.html
+#   - bookmarks.md
 
-plugins:
-  - jekyll-feed
-  - jekyll-sitemap
+# plugins:
+#   - jekyll-feed
+#   - jekyll-sitemap
 
-#google_analytics:
+# #google_analytics:
 
-gravatar_hash: 
-code_block_max_height: 500px
+# gravatar_hash: 
+# code_block_max_height: 500px
 
-home_post_limit: 5
+# home_post_limit: 5
 
-defaults:
-  - scope:
-      path: ""
-    values:
-      image:  # Apply default site image
-  - scope:
-      path: ""
-      type: posts
-    values:
-      tags:
-        - Other # Add a default tag to all posts
+# defaults:
+#   - scope:
+#       path: ""
+#     values:
+#       image:  # Apply default site image
+#   - scope:
+#       path: ""
+#       type: posts
+#     values:
+#       tags:
+#         - Other # Add a default tag to all posts
 
-# Disable highlighting to use highlightJS instead
-# highlighter: none # Not supported by GitHub Pages
-kramdown:
-  syntax_highlighter_opts:
-    disable: true
+# # Disable highlighting to use highlightJS instead
+# # highlighter: none # Not supported by GitHub Pages
+# kramdown:
+#   syntax_highlighter_opts:
+#     disable: true
