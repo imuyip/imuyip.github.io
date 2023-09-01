@@ -2,11 +2,11 @@
 
 title: Piyumi Athulathmudali
 
-author: Piyumi Athulathmudali
-email: imuyip@gmail.com
+#author: Piyumi Athulathmudali
+#email: imuyip@gmail.com
 
-timezone: Etc/UTC # GitHub uses UTC. This is to force dev environment to match
-future: false # GitHub Pages will publish future posts if this isn't set to false
+#timezone: Etc/UTC # GitHub uses UTC. This is to force dev environment to match
+#future: false # GitHub Pages will publish future posts if this isn't set to false
 
 # description: >
 #   My blog for data viz + personal projects
