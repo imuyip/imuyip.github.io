@@ -1,6 +1,6 @@
-theme: minima
+#theme: minima
 
-title: <Piyumi Athulathmudali>
+title: Piyumi Athulathmudali
 
 author: Piyumi Athulathmudali
 email: imuyip@gmail.com
@@ -9,7 +9,7 @@ timezone: Etc/UTC # GitHub uses UTC. This is to force dev environment to match
 future: false # GitHub Pages will publish future posts if this isn't set to false
 
 description: >
-  My first blog. Probably no one else will ever read it, but oh well.
+  My blog for data viz + personal projects
 
 # Minima variables
 github_username:   imuyip
