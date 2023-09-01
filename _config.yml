@@ -2,8 +2,8 @@ theme: minima
 
 title: Piyumi Athulathmudali
 
-#author: Piyumi Athulathmudali
-#email: imuyip@gmail.com
+author: Piyumi Athulathmudali
+email: imuyip@gmail.com
 
 #timezone: Etc/UTC # GitHub uses UTC. This is to force dev environment to match
 #future: false # GitHub Pages will publish future posts if this isn't set to false
@@ -11,9 +11,9 @@ title: Piyumi Athulathmudali
 # description: >
 #   My blog for data viz + personal projects
 
-# # Minima variables
-# github_username:   imuyip
-# linkedin_username: piyumia
+# Minima variables
+github_username:   imuyip
+linkedin_username: piyumia
 # #instagram_username: piyumidali
 # rss: rss
 
@@ -41,10 +41,10 @@ title: Piyumi Athulathmudali
 #   personal: # collection for personal blog posts
 #     output: true
 
-# header_pages:
-#   - archive.html
-#   - data-viz.html
-#   - bookmarks.md
+header_pages:
+   - archive.html
+   - data-viz.html
+   - bookmarks.md
 
 # plugins:
 #   - jekyll-feed
