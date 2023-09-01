@@ -11,6 +11,8 @@ email: imuyip@gmail.com
 # description: >
 #   My blog for data viz + personal projects
 
+imagesurl: "/img/"
+
 # Minima variables
 github_username:   imuyip
 linkedin_username: piyumia
