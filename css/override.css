@@ -1,1 +1,7 @@
+.site-title, .site-title:visited {
+    color: darkseagreen;
+}
 
+.site-header {
+    border-top: 4px solid ghostwhite;
+}
