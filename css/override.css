@@ -6,8 +6,8 @@
     border-top: 4px solid ghostwhite;
 }
 
-.post-title element.style {
-    font-size: 30px;
+.post-title h1 [style^="font-size: 42px"]{
+     font-size: 30px !important;
 }
 
 /*! div style */
