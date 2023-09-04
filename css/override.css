@@ -6,6 +6,10 @@
     border-top: 4px solid ghostwhite;
 }
 
+.post-header {
+    font-size: 30px;
+}
+
 /*! div style */
 .image-gallery {
 width: 100%;
