@@ -1,40 +1,18 @@
-@import "minima";
-
-.site-title, .site-title:visited {
-    color: darkseagreen;
+@charset "UTF-8";
+/* Error: Expected identifier.
+ *    ,
+ * 36 | transition: all 0.3s ease-in-out;
+ *    |                                  ^
+ *    '
+ *   style.css 36:34  root stylesheet */
+body::before {
+  font-family: "Source Code Pro", "SF Mono", Monaco, Inconsolata, "Fira Mono", "Droid Sans Mono", monospace, monospace;
+  white-space: pre;
+  display: block;
+  padding: 1em;
+  margin-bottom: 1em;
+  border-bottom: 2px solid black;
+  content: "Error: Expected identifier.\a    ╷\a 36 │ transition: all 0.3s ease-in-out;\d\a    │                                  ^\a    ╵\a   style.css 36:34  root stylesheet";
 }
 
-.site-header {
-    border-top: 4px solid ghostwhite;
-}
-
-.post-title[style^="font-size: 42px"]{
-     font-size: 30px !important;
-}
-
-/*! div style */
-.image-gallery {
-width: 100%;
-display: grid;
-grid-template-columns: repeat(auto-fill,minmax(200px, 1fr));
-justify-content: center;
-padding: 4px;
-}
-
-.box {
-flex-basis: 25%;
-width: 100%;
-padding: 10px;
-margin: 2px;
-}
-
-.img-gallery {
-width: 100%;
-height: 200px;
-object-fit: cover;
-transform: scale(1);
-transition: all 0.3s ease-in-out;
-&:hover {
-transform: scale(1.05);
-}
-
+/*# sourceMappingURL=style.css.map */
