@@ -5,6 +5,11 @@ title: Piyumi's Blog
 author: Piyumi Athulathmudali
 email: imuyip@gmail.com
 
+sass:
+  sass_dir: _sass
+  style: compressed
+
+
 #timezone: Etc/UTC # GitHub uses UTC. This is to force dev environment to match
 #future: false # GitHub Pages will publish future posts if this isn't set to false
 
