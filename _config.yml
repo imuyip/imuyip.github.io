@@ -1,4 +1,4 @@
-remote_theme: niklasbuschmann/contrast@v2.11
+theme: minima
 
 title: Piyumi's Blog
 
@@ -53,12 +53,6 @@ header_pages:
    - pre-occupation.html
    - avocation.html
    - bookmarks.md
-
-plugins:
-  - jekyll-feed
-  - jekyll-sitemap
-  - jekyll-remote-theme
-
   
 
 # #google_analytics:
