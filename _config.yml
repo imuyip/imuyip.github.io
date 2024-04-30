@@ -49,8 +49,9 @@ linkedin_username: piyumia
 #     output: true
 
 header_pages:
-   - archive.html
-   - data-viz.html
+   - profession.html
+   - pre-occupation.html
+   - avocation.html
    - bookmarks.md
 
 # plugins:
